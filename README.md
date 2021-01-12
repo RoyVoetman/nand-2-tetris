@@ -7,8 +7,10 @@ The hardware projects use the simple Hardware Description Language (HDL), descri
 
 The software projects (assembler, virtual machine, and compiler for a simple object-based language) are developed by using the project materials available in the nand2tetris site.
 
-# Why Bother?
+## Why Bother?
 Because many CS students don't understand how computers work; because fewer CS programs requires a compilation course; because many computer architecture courses are too detailed; because nothing beats the thrill of creating something from almost nothing; because Nand to Tetris engages students in implementing some of the coolest algorithms, data structures and techniques in applied computer science, and because the typical student feedback in Nand to Tetris courses is "the best course I ever took".
+
+## Resources
 
 [Hardware Simulator](https://www.nand2tetris.org/software)
 
